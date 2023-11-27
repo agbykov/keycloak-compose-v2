@@ -13,7 +13,7 @@ docker compose up -d
 | Prometheus | 9090 | |
 | Grafana | 3000 | `admin` | `grafana`
 
-| Useful commands | Discription
+| Useful commands | Description
 |-|-
 | `docker stats` | Containers resource usage (`--no-stream` only pull the first result)
 | `docker compose logs` | Shows logs of containers (`-f` to follow logs)
