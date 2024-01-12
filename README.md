@@ -1,4 +1,4 @@
-### [Keycloak](https://keycloak.org) with [PostgreSQL](https://www.postgresql.org), which includes Keycloak's monitoring using [Prometheus](https://prometheus.io) and [Grafana](https://grafana.com)
+### [Keycloak](https://github.com/keycloak/keycloak) with [PostgreSQL](https://www.postgresql.org), which includes Keycloak's monitoring using [Prometheus](https://github.com/prometheus/prometheus) and [Grafana](https://github.com/grafana/grafana)
 
 1. Requires [docker](https://docs.docker.com/get-docker/) and [compose](https://docs.docker.com/compose/install/)
 2. Parameterized using variables in the [`.env`](.env) file
